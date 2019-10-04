@@ -1,0 +1,8 @@
+nthucad.cs.nthu.edu.tw
+port: 22
+
+ssh -X ic21
+
+CA063 
+shawn2000
+i3sj5ZrBPUcq
