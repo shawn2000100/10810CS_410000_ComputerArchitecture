@@ -109,4 +109,3 @@ _Exit:
 	syscall	          # print
 	li $v0, 10
 	syscall
-	
