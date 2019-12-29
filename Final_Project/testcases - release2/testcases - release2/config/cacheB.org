@@ -1,0 +1,4 @@
+Address_bits: 32
+Block_size: 64
+Cache_sets: 1024
+Associativity: 1

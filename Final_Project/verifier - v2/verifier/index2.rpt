@@ -1,0 +1,21 @@
+Address bits: 8 
+Block size: 4
+Cache sets: 4
+Associativity: 2
+
+Offset bit count: 2
+Indexing bit count: 2
+Indexing bits: 5 4
+
+.benchmark testcase1
+00000000 miss
+00010000 miss
+00100000 miss
+00000000 hit
+00101100 miss
+00000000 hit
+00101100 hit
+.end 
+
+Total cache miss count: 4
+
