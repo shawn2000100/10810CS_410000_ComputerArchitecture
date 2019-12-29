@@ -5,16 +5,20 @@
 
 ### Server Demo
 nthucad.cs.nthu.edu.tw
+
 port: 22
+
 ssh -X ic21  (這行每次登入進去後都要打一下，驗證用)
+
 CA063 
+
 shawn2000
 
 ### Report
 
 本次期末作業需模擬NRU replacement的Cache機制 (Direct map, 2-way... fully-way...)
 
-![](C:\Users\shawn\Downloads\1.jpg)
+![](https://github.com/shawn2000100/10810CS_410000/blob/master/Algo_Flow.jpg)
 
 資料結構設計:
 
