@@ -1,7 +1,7 @@
 nthucad.cs.nthu.edu.tw
 port: 22
 
-ssh -X ic21
+ssh -X ic21  (這行每次登入進去後都要打一下，驗證用)
 
 CA063 
 shawn2000
